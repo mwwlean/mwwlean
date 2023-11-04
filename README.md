@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwwlean&label=Profile%20views&color=0e75b6&style=flat" alt="mwwlean" /> </p>
 
-- 🔭 I’m currently working at **Cenixys**
-
 - 🌱 I’m currently learning **Software Development**
 
 <p align="left">
