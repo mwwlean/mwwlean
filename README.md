@@ -1,5 +1,5 @@
-<h1 align="center">Hello test</h1>
-<h3 align="center">test</h3>
+<h1 align="center">Hello, I'm Jan Leander</h1>
+<h4 align="center">"Learning never exhausts the mind”</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwwlean&label=Profile%20views&color=0e75b6&style=flat" alt="mwwlean" /> </p>
 
