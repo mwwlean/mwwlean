@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwwlean&label=Profile%20views&color=0e75b6&style=flat" alt="mwwlean" /> </p>
 
-- 🔭 Junior Software Developer at **CeniXys**
 - 🌱 I’m currently learning **Mobile and Web Development**
 
 <p align="left">
