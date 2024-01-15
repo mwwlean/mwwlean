@@ -1,4 +1,9 @@
-<h1 align="center">
+
+<div align="center">
+    <img src="https://media4.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="100"/>
+</div>
+
+<h1 align="center">   
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+mwwlean!;" />
 </h1>
 <h4 align="center">"Learning never exhausts the mind”</h4>
@@ -18,5 +23,9 @@
     <img src="https://skillicons.dev/icons?i=bash,linux,html,css,js,sass,tailwind,svelte,django,git,github,flutter,figma" />
 </p>
 
+
+
+      
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwwlean&layout=donut&theme=vue-dark&bg_color=001A0C&border_radius=9.0&text_color=FFE372)
 
 
