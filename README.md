@@ -9,8 +9,6 @@
 <h4 align="center">"Learning never exhausts the mind”</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwwlean&label=Profile%20views&color=0e75b6&style=flat" alt="mwwlean" /> </p>
-
-🔭 I’m currently working at **Cenixys** as a Front-End Developer and Designer.
  
 🌱 I’m currently learning **Web Development**
 
