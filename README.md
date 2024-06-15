@@ -27,7 +27,3 @@
 
 
 
-      
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwwlean&layout=donut&theme=vue-dark&bg_color=001A0C&border_radius=9.0&text_color=FFE372)
-
-
