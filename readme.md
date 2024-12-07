@@ -6,8 +6,6 @@
 
 <h4 align="center">"Learning never exhausts the mind”</h4>
 <br>
-
-<h5 align="center">"Web</h5>
 <p align="center">
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,python,html,css,tailwind,django,react,next,linux,flask,mysql,supabase,git,vercel,figma" />
