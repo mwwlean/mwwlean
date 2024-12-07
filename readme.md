@@ -6,11 +6,14 @@
 
 <h4 align="center">"Learning never exhausts the mind”</h4>
 <br>
+
+<h5 align="center">"Web</h5>
 <p align="center">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,python,html,css,tailwind,django,next,linux,flask,mysql,git,vercel,figma" />
+    <img src="https://skillicons.dev/icons?i=javascript,python,html,css,tailwind,django,react,next,linux,flask,mysql,supabase,git,vercel,figma" />
    </a>
 </p>
+
 <br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mwwlean&theme=modern-lilac2&card_width=765" alt="GitHub Streak" />
