@@ -12,7 +12,3 @@
    </a>
 </p>
 
-<br>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mwwlean&theme=modern-lilac2&card_width=765" alt="GitHub Streak" />
-</p>
