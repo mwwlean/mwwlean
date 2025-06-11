@@ -18,7 +18,7 @@
 ### Languages
 
 <p align="left">
-<!--   <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="50" height="50"/> -->
+  <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
 </p>
@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=django" alt="Django" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" height="50"/>
-<!--   <img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" width="50" height="50"/> -->
+  <img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySql" width="50" height="50"/>
 </p>
