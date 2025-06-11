@@ -19,6 +19,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="50" height="50"/>
+   <img src="https://skillicons.dev/icons?i=js" alt="Javacript" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
 </p>
