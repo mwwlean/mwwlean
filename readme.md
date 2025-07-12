@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=django" alt="Django" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" height="50"/>
-<!--   <img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" width="50" height="50"/> -->
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySql" width="50" height="50"/>
 </p>
