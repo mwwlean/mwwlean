@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jan Leander 👋
 
-<!--
-**mwwlean/mwwlean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer · Entrepreneur
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-leander-matutes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+I love entrepreneurship, innovation, AI, and adapting to new tech. I build simple, user-centered software that solves real problems.
+
+-  Co-founded **Cenixys**
+-  Co-founded **CravelyScout**
+-  Into system architecture and design
+-  Building design systems with an agile mindset
+-  Exploring AI and building with it
+-  Automating workflows and everyday stuff
+-  Open to collaboration and new ideas
+
+> *"Stay hungry. Stay foolish."* · Steve Jobs
